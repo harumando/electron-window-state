@@ -1,5 +1,5 @@
 {
-  "name": "electron-window-state",
+  "name": "xx-electron-window-state",
   "version": "4.1.1",
   "description": "Simple module that helps to save and restore size and position of Electron windows.",
   "license": "MIT",
@@ -10,7 +10,7 @@
     "node": ">=4.0.0"
   },
   "scripts": {
-    "test": "xo && ava"
+    "test": "./node_modules/ava/cli.js"
   },
   "keywords": [
     "electron"
@@ -20,12 +20,13 @@
   ],
   "dependencies": {
     "deep-equal": "^1.0.1",
+    "deep-get-set": "^1.1.0",
     "jsonfile": "^2.2.3",
     "mkdirp": "^0.5.1"
   },
   "devDependencies": {
     "ava": "^0.17.0",
-    "mockery": "^1.4.0",
+    "mockery": "^1.7.0",
     "sinon": "^1.17.2",
     "xo": "^0.17.1"
   },
