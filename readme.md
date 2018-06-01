@@ -11,7 +11,7 @@ It shares all the functionality the original repo has, but this version also can
 ```
 So your `app-settings.json` file would look like this
 
-```json
+```
   {
     ...
     ...
