@@ -1,6 +1,6 @@
 {
   "name": "h-electron-window-state",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fork of mawie81/electron-window-state",
   "license": "MIT",
   "repository": "mawie81/electron-window-state",
