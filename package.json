@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "description": "Fork of mawie81/electron-window-state",
   "license": "MIT",
-  "repository": "mawie81/electron-window-state",
+  "repository": "harumando/h-electron-window-state",
   "main": "index.js",
   "author": "harumando",
   "engines": {
